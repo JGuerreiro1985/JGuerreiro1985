@@ -6,7 +6,11 @@ Throughout my career, I lived, worked and studien in 7 countries: Portugal, Spai
 
 I speak fluently 7 languages: Portuguese, English, French, Luxembourguish, German, Spanish and Italian
 
-⚡ Fun fact: I travelled over 85 countries in the world. My goal is to reach 100 during my lifetime.
+⚡ Fun facts: 
+- I travelled over 85 countries in the world. My goal is to reach 100 during my lifetime. 🗺️
+- I became fluent in Luxembourguish in only 8 months 🥇
+- I love to cook 🧑‍🍳
+- I am very tall (1.95m) 🚹
 
 <!--
 **JGuerreiro1985/JGuerreiro1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
