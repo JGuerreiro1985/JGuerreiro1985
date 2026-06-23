@@ -3,8 +3,6 @@
 Hi, I am Data Analyst, proficient in MS Excel, PowerBI, Python, SQL, Data Visualisation and Data Modelling. Over 15 years of experience mainly in Finance and Supply Chain, where I found my passion for analysis, data, reporting, BI and process improvement.
 
 Throughout my career, I lived, worked and studien in 7 countries: Portugal, Spain, Mozambique, Denmark, Germany, Hungary and Luxembourg 
-🇵🇹 
-🇱🇺
 
 I speak fluently 7 languages: Portuguese, English, French, Luxembourguish, German, Spanish and Italian
 
