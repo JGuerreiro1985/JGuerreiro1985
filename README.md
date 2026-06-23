@@ -2,13 +2,12 @@
 
 Hi, I am Data Analyst, proficient in MS Excel, PowerBI, Python, SQL, Data Visualisation and Data Modelling. Over 15 years of experience mainly in Finance and Supply Chain, where I found my passion for analysis, data, reporting, BI and process improvement.
 
-Throughout my career, I lived, worked and studien in 7 countries:
-Portugal 	:portugal:
-Spain
-Mozambique
-Denmark
-Germany
-Luxembourg 
+Throughout my career, I lived, worked and studien in 7 countries: Portugal, Spain, Mozambique, Denmark, Germany, Hungary and Luxembourg 
+
+I speak fluently 7 languages: Portuguese, English, French, Luxembourguish, German, Spanish and Italian
+
+⚡ Fun fact: I travelled over 85 countries in the world. My goal is to reach 100 during my lifetime.
+
 <!--
 **JGuerreiro1985/JGuerreiro1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
