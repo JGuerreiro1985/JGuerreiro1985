@@ -1,6 +1,8 @@
 ## Moien! 👋
 
-Welcome to my GitHub profile! I am a passionate data professional dedicated to transforming complex datasets into actionable insights. My expertise lies at the intersection of data integration, analytics, and business intelligence. Proficient in MS Excel, PowerBI, Python, SQL, Data Visualisation and Data Modelling. Over 15 years of experience mainly in Finance and Supply Chain, where I found my passion for analysis, data, reporting, BI and process improvement.
+Welcome to my GitHub profile! 
+
+I am a passionate data professional dedicated to transforming complex datasets into actionable insights. My expertise lies at the intersection of data integration, analytics, and business intelligence. Proficient in MS Excel, PowerBI, Python, SQL, Data Visualisation and Data Modelling. Over 15 years of experience mainly in Finance and Supply Chain, where I found my passion for analysis, data, reporting, BI and process improvement.
 
 🐍 Python: experience with libraries: pandas / os / yfinance
 🛠️ SQL
