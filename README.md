@@ -14,6 +14,8 @@ I am a passionate data professional dedicated to transforming complex datasets i
 
 📊 Data Integration and ETL
 
+Vast experience in data modelling, data cleaning, data processing & data visualization.
+
 Throughout my life, I lived, worked and studied in 7 countries: Portugal, Spain, Mozambique, Denmark, Germany, Hungary and Luxembourg.
 
 I speak fluently 7 languages: Portuguese, English, French, Luxembourguish, German, Spanish and Italian.
