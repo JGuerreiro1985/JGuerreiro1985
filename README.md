@@ -14,7 +14,7 @@ I am a passionate data professional dedicated to transforming complex datasets i
 
 〰️ BI: PowerBI and Qlik Sense
 
-📊 Data Integration and ETL
+📊 Data Integration and ETL / PowerShell
 
 Vast experience in data modelling, data cleaning, data processing & data visualization.
 
