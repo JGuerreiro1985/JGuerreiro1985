@@ -12,7 +12,7 @@ I am a passionate data professional dedicated to transforming complex datasets i
 
 💸 Excel: VBA macros / PowerQuery / formulas
 
-〰️ BI: PowerBI and Qlik Sense
+〰️ BI: PowerBI and notions of Qlik Sense
 
 📊 Data Integration and ETL / PowerShell
 
